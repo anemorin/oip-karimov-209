@@ -1,0 +1,365 @@
+accord according
+account account
+action actions
+actual actual
+add add
+additional additional
+ago ago
+agree agree
+allows allows
+also also
+amazon amazon
+america america
+american american
+apis apis
+appearance appearance
+application application
+apply apply
+article article articles
+asn asn
+aspect aspects
+attribute attributes
+august august
+autoscaling autoscaling
+availability availability
+available available
+aws aws
+azure azure
+azərbaycanca azərbaycanca
+bahasa bahasa
+balancer balancer
+base base based
+basis basis
+bill billed
+billion billion
+building building
+capacity capacity
+català català
+category categories category
+center centers
+central central
+change changes
+charge charges
+charitable charitable
+cheaply cheaply
+choice choice
+choose chosen
+cite cite
+cli cli
+client client clients
+cloud cloud
+cluster cluster clusters
+code code
+combination combination
+common commons
+community community
+company companies company
+competitor competitors
+compute compute computing
+computer computer computers
+conduct conduct
+conflict conflict
+console console
+contact contact contacts
+contain containing
+content content contents
+contribute contribute
+cookie cookie
+cost costs
+cpu cpus
+create create
+creative creative
+crm crm
+current current
+customer customer customers
+data data
+databases databases
+date dated dates
+de de
+dead dead
+december december
+dedicate dedicated
+defense defense
+degree degrees
+deliver delivered
+denaturalization denaturalization
+description description
+deutsch deutsch
+developer developer developers
+different different
+disambiguation disambiguation
+disclaimer disclaimers
+disposal disposal
+donate donate
+download download
+edit edit edited
+eesti eesti
+either either
+elastic elastic
+emulate emulate
+encyclopedia encyclopedia
+english english
+environmental environmental
+español español
+euskara euskara
+event events
+expand expanded
+explanatory explanatory
+extension extension
+external external
+extremely extremely
+farm farm farms
+feature features
+february february
+fee fees
+file file
+footprint footprint
+found founded founding
+foundation foundation
+foundational foundational
+français français
+free free frees
+gaeilge gaeilge
+general general
+geographical geographical
+get get
+global global
+google google
+government governments
+gpus gpus
+graphic graphics
+group group
+growth growth
+hardware hardware
+hdd hdd
+help help
+hidden hidden
+hide hide
+high high
+history history
+host hosting
+hot hot
+http https
+incident incidents
+include including
+income income
+individual individuals
+indonesia indonesia
+industry industry
+infobox infobox
+information information
+infrastructure infrastructure
+interact interacted
+internet internet
+iot iot
+issue issue issues
+italiano italiano
+item item
+ja ja
+january january
+july july
+jump jump
+june june
+key key
+know known
+lack lacking
+languages languages
+last last
+latviešu latviešu
+learn learn
+legal legal
+less less
+license license
+link link links
+load load
+locate located
+loft lofts
+log log
+magyar magyar
+main main
+manage managing
+management management
+many many
+march march
+market market markets
+may may
+mdy mdy
+measure measures
+melayu melayu
+memory memory
+menu menu
+meter metered
+microsoft microsoft
+middleware middleware
+mobile mobile
+model model
+move move
+navigation navigation
+nederland nederlands
+network network
+networking networking
+next next
+nine nine
+north north
+note notes
+obtain obtaining
+october october
+often often
+one one
+operate operates operating
+option options
+organization organization
+outage outages
+page page pages
+parent parent
+patch patch patching
+pay pay
+pdf pdf
+people people
+permanent permanent
+permanently permanently
+personal personal
+physical physical
+platform platforms
+policy policy
+polski polski
+portal portal
+portion portions
+português português
+potentially potentially
+price pricing
+printable printable
+privacy privacy
+process process processing
+project projects
+protest protest
+provide provide provides
+provider provider providers
+qr qr
+quickly quickly
+ram ram
+random random
+read read
+real real
+recent recent
+reception reception
+redirects redirects
+reduce reduce
+redundancy redundancy
+reference references
+region regions
+register registered
+relate related
+relationship relationship
+reliable reliable
+require requiring
+research research
+respectively respectively
+responsibility responsibility
+rest rest
+retrieve retrieved
+revenue revenue
+română română
+runa runa
+safety safety
+sanction sanctioned
+scale scale scaling
+scan scanning
+search search
+security security
+see see
+select select
+server server servers
+service service services
+share share
+short short
+shorten shortened
+sidebar sidebar
+significant significant
+simi simi
+simple simple
+since since
+single single
+site site
+slovenčina slovenčina
+slovenščina slovenščina
+software software
+source source sources
+special special
+ssd ssd
+state states
+statement statement statements
+statistic statistics
+storage storage
+subscriber subscriber subscribers
+subsection subsection
+subsidiary subsidiaries subsidiary
+suomi suomi
+synergy synergy
+system system systems
+table table
+talk talk
+template template
+term terms
+text text
+throughout throughout
+time times
+tiếng tiếng
+toggle toggle
+tool tools
+top top
+topic topic
+topology topology
+trademark trademark
+traffic traffic
+transfer transfer
+two two
+type type
+türkçe türkçe
+u us
+unfit unfit
+unit units
+united united
+unsourced unsourced
+upload upload
+url url
+usage usage
+use use uses using
+user users
+utc utc
+various various
+vary varying
+version version
+via via
+view view
+virtual virtual
+việt việt
+vulnerability vulnerability
+way way ways
+wayback wayback
+web web
+webarchive webarchive
+website website
+well well
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+work work
+world world
+write written
+year years
+čeština čeština
+ελληνικά ελληνικά
+български български
+русский русский
+тоҷикӣ тоҷикӣ
+українська українська
+עברית עברית
+اردو اردو
+العربية العربية
+فارسی فارسی
+پنجابی پنجابی
+ไทย ไทย
+中文 中文
+日本語 日本語
+한국어 한국어

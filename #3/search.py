@@ -19,10 +19,10 @@ def load_index(path: str) -> tuple[dict[str, set[int]], set[int], dict[int, str]
             index[token.lower()] = doc_ids
             all_docs |= doc_ids
 
-    pages_dir = os.path.join(BASE_DIR, "..", "#1", "pages")
+    pages_dir = os.path.join(BASE_DIR, "..", "#2", "lemmas_per_doc")
     id_to_file: dict[int, str] = {}
     if os.path.isdir(pages_dir):
-        files = sorted(f for f in os.listdir(pages_dir) if f.endswith(".html"))
+        files = sorted(f for f in os.listdir(pages_dir) if f.endswith(".txt"))
         for doc_id, fname in enumerate(files):
             id_to_file[doc_id] = fname
 

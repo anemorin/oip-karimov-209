@@ -1,0 +1,741 @@
+ability ability
+absence absence
+absolute absolute
+abstractly abstractly
+accomplish accomplished
+account account
+accurately accurately
+action actions
+actual actual
+actually actually
+ad ad
+add add added
+addition addition
+additional additional
+adequate adequate
+affect affect
+age age
+agree agree
+al al
+algorithm algorithm
+align aligned
+already already
+also also
+alternative alternative alternatives
+alternatively alternatively
+always always
+among among
+analogous analogous
+analysis analysis
+analytics analytics
+angle angle
+another another
+answer answer
+appearance appearance
+application application applications
+apply apply
+approach approach approaches
+article article articles
+assess assess assessing
+associate associated
+assume assume assumed
+attribute attributes
+available available
+average average
+avoids avoids
+back back
+background background
+bad worse
+bahasa bahasa
+base base based
+baseline baseline
+basic basic
+bayesian bayesian
+bc bc
+begin begin beginning
+berkson berkson
+bernoulli bernoulli
+best best
+beta beta
+binary binary
+binomial binomial
+blood blood
+body body
+boyd boyd
+build built
+building building
+business business
+calculate calculate calculating
+calculation calculations
+call called
+cancel canceling
+cardinal cardinal
+case case cases
+cat cat
+català català
+categorical categorical
+categorize categorized
+category categories category
+cell cells
+certain certain
+certainly certainly
+change changed changes
+characteristic characteristic characteristics
+choice choice choices
+choose choosing
+citation citations
+cite cite
+clarification clarification
+class class classes
+classification classification
+classifier classifier
+classify classifying
+clear clear
+close close
+cod coded
+code code
+coefficient coefficient coefficients
+coffee coffee
+coin coined
+combination combination combinations
+combine combined
+common common commons
+commonly commonly
+communicate communicate
+communist communist
+community community
+compact compact
+comparison comparison
+component components
+compute compute computed
+computes computes
+concrete concrete
+condition conditioned conditions
+conditional conditional
+conduct conduct
+confuse confused
+congress congress
+consider consider
+consist consisting
+consists consists
+constant constant
+contact contact contacts
+contain contain
+contains contains
+content content contents
+contingency contingency
+continuous continuous
+contribute contribute
+convenient convenient
+converge converge
+conversely conversely
+convert convert converted converts
+cookie cookie
+coronary coronary
+correspond corresponding
+corresponds corresponds
+could could
+create create created
+creative creative
+criterion criterion
+current current
+curve curve
+customer customer
+cutoff cutoff
+data data
+dataset dataset
+decision decisions
+default defaulting
+define define defined defining
+definition definition
+denis denis
+denotes denotes
+depend depend
+dependent dependent
+derivative derivatives
+describe described
+description description
+design design
+detail details
+determine determined determining
+deutsch deutsch
+develop developed developing
+developer developers
+development development
+deviance deviance
+deviation deviations
+diabetes diabetes
+diagnose diagnosing
+different different
+differs differs
+disaster disaster
+disclaimer disclaimers
+discrete discrete
+discussion discussion
+disease disease
+diseases diseases
+distinction distinction
+distinctive distinctive
+distribute distributed
+distribution distribution distributions
+dog dog
+donate donate
+dot dot
+download download
+drink drink
+dummy dummy
+easily easily
+easy easier easy
+economics economics
+edit edit edited
+eesti eesti
+effect effect effects
+effectively effectively
+either either
+election elections
+email email emails
+encyclopedia encyclopedia
+end ending
+energy energy
+engineer engineers
+engineering engineering
+english english
+enter entering
+entered entered
+environment environment
+equal equal equals
+equaling equaling
+equate equate
+equation equation equations
+equivalent equivalent
+equivalently equivalently
+error error errors
+español español
+especially especially
+essential essential
+estimate estimate estimated estimates estimating
+estimation estimation
+et et
+etc etc
+euler euler
+euskara euskara
+evacuation evacuations
+evaluation evaluation
+event event events
+every every
+exam exam
+example example
+expect expect expected
+expectedly expectedly
+explanation explanation
+explanators explanators
+explanatory explanatory
+exponent exponents
+exponential exponential
+exponentiating exponentiating
+express express expressed expresses
+expression expression
+extended extended
+extension extension extensions
+external external
+fact fact
+factor factor
+fail fail failed
+failing failing
+failure failure
+feature feature features
+february february
+female female
+field fields
+figure figure
+file file
+find find finding found
+fire fires
+first first
+fit fit fitted fitting
+fix fixed
+follow following follows
+force force
+form form forms
+formal formal
+formally formally
+formula formula
+foundation foundation
+four four
+fourth fourth
+framework framework
+français français
+free free
+function function
+general general
+generalization generalization generalizations
+generalize generalized
+generalizes generalizes
+generally generally
+get get gets
+give give given gives
+goal goal
+goodness goodness
+grade grade
+graph graph
+great great greater
+ground grounded
+group group grouped
+halt halt
+hand hand
+healthy healthy
+heart heart
+help help
+hence hence
+hidden hidden
+hide hide
+history history
+hold hold
+homeowner homeowner
+hour hours
+householder householders
+however however
+http https
+hurricane hurricanes
+hypothetically hypothetically
+idea idea
+identically identically
+identify identifying
+illustrate illustrates
+image image
+implies implies
+important important
+include include including
+income income
+increase increase increased increases increasing
+indefinitely indefinitely
+independent independent
+index index indexed
+indicate indicates indicating
+indicator indicator
+individual individual
+indonesia indonesia
+infinity infinity
+inform informed
+information information
+injured injured
+injury injury
+input input inputs
+instance instance
+instead instead
+intercept intercept
+interpret interpreted
+interpretation interpretation interpretations
+interval interval
+introduce introduced
+inverse inverse
+irls irls
+isotonic isotonic
+istic istic
+italiano italiano
+item item
+iteratively iteratively
+joseph joseph
+jump jump
+know known
+label labeled labeling
+labor labor
+language language
+languages languages
+large large
+last last
+learn learn learning
+least least
+legal legal
+less less
+let let
+license license
+like like
+likelihood likelihood
+limit limit
+line line lines
+linear linear
+link link links
+lion lion
+ln ln
+local local
+location location
+log log
+logarithm logarithm
+logistic logistic
+logit logit
+look looks
+loss loss
+lrt lrt
+machine machine
+main main
+make make makes
+male male
+manage managing
+many many
+map maps
+mark marked
+market marketing
+mass mass
+mathematics mathematics
+matrix matrix
+maximization maximization
+maximize maximize maximizing
+maximum maximum
+may may
+mean mean means
+meaning meaning meanings
+measure measure
+measurement measurement measurements
+mechanism mechanism
+medical medical
+menu menu
+method method methods
+midpoint midpoint
+might might
+minimize minimizing
+minimized minimized
+mixed mixed
+mk mk
+mle mle
+mobile mobile
+model model modeling models
+mortality mortality
+mortgage mortgage
+move move
+much much
+multilevel multilevel
+multinomial multinomial
+multiple multiple
+multiplicatively multiplicatively
+multiply multiplied multiply
+multivariate multivariate
+name name
+names names
+natural natural
+navigation navigation
+nederland nederlands
+needing needing
+negative negative
+nepal nepal
+nepalese nepalese
+nepali nepali
+non non
+nonlinear nonlinear
+nonparametric nonparametric
+notably notably
+notation notation
+note note noted
+number number numbers
+numerical numerical
+observation observation
+observe observed
+obtained obtained
+occupant occupants
+october october
+odds odds
+often often
+ols ols
+one one
+optimum optimum
+order ordered
+ordinal ordinal
+ordinary ordinary
+organization organization
+original original
+originally originally
+others others
+outcome outcome
+outcomes outcomes
+outline outline
+output output outputs
+overall overall
+oversimplification oversimplification
+page page pages
+parameter parameter parameters
+part part
+partial partial
+particular particular
+particularly particularly
+party party
+pas pass
+pass passed passing
+patient patient patients
+pdf pdf
+per per
+perceptron perceptron
+perfect perfect
+perform perform
+permanent permanent
+person person
+personal personal
+phrase phrases
+place place
+plan plans
+planner planners
+play plays
+point point points
+poisson poisson
+policy policy
+polski polski
+polynomial polynomial
+popularize popularized
+portal portal
+português português
+positive positive
+possible possible
+pr pr
+predefined predefined
+predict predict predicted predicting
+prediction prediction predictions
+predictive predictive
+predictor predictor predictors
+presence presence
+previous previous
+primarily primarily
+principal principal
+printable printable
+privacy privacy
+probabilistic probabilistic
+probability probabilities probability
+probit probit
+problem problem
+procedure procedure
+process process processing
+produce produced
+product product
+project projects
+propensity propensity
+property property
+proportion proportion
+proportional proportional
+provide provides
+purchase purchase
+put put
+qr qr
+quantile quantile
+question question
+race race
+random random
+range ranges ranging
+rate rate
+rather rather
+ratio ratio
+read read
+real real
+reason reason
+recent recent
+recommend recommended
+redirects redirects
+refer referring
+reference references
+register registered
+regression regression
+regularize regularized
+relate related relating
+relationship relationship
+relative relative
+reliable reliable
+relies relies
+rely rely
+render renders
+replace replaced
+represent represented represents
+require require
+research research
+residence residence
+residual residual residuals
+respect respect
+respectively respectively
+response response
+responses responses
+restrict restricted
+result result resulting results
+retrieve retrieved
+revise revised
+reweighted reweighted
+rewritten rewritten
+ridge ridge
+risk risk
+robust robust
+role role
+rule rule
+run run runs
+safer safer
+safety safety
+sample sampling
+satisfies satisfies
+say say
+scalar scalar
+scale scale scales
+science sciences
+score score
+search search
+second second
+section section
+see see seeing seen
+segment segmented
+semiparametric semiparametric
+sense sense
+separate separate
+sequential sequential
+series series
+serve serves
+set set
+several several
+severity severity
+sex sex
+share shared
+short short
+shorten shortened
+show shown shows
+side sides
+sidebar sidebar
+sigmoid sigmoid
+significance significance
+significantly significantly
+similar similar
+similarly similarly
+simple simple simplest
+simply simply
+since since
+single single
+site site
+size size
+slope slope
+social social
+soda soda
+solve solving
+sort sorting
+source sources
+space space
+spam spam
+special special
+specific specific
+specifically specifically
+specify specify specifying
+spectral spectral
+spends spends
+spent spent
+spss spss
+square squared squares
+standard standard
+state state
+statement statement statements
+statistic statistic statistics
+statistical statistical
+std std
+strictly strictly
+student student students
+studentized studentized
+studied studied
+study studies study studying
+subscript subscript
+subscription subscription
+subsection subsection
+success success successes
+suitable suitable
+sum sum
+summary summary
+suomi suomi
+supervise supervised
+support supports
+surprisal surprisal
+surprising surprising
+svenska svenska
+system system
+table table
+take take taken takes taking
+talk talk
+task tasks
+team team
+technique technique
+template template
+ten ten
+term terms
+test test tests
+text text
+theorem theorem
+third third
+though though
+three three
+time times
+toggle toggle
+tool tools
+top top
+topic topic
+total total
+trademark trademark
+traditional traditional
+transform transform
+transformation transformation
+trauma trauma
+treat treated
+trial trial trials
+triss triss
+twice twice
+two two
+type type types
+typically typically
+u us
+un un
+underlying underlying
+unit unit
+unlike unlike
+unobserved unobserved
+unsourced unsourced
+upload upload
+upon upon
+url url
+use use used uses using
+useful useful
+usual usual
+usually usually
+utc utc
+utilizes utilizes
+validation validation
+value value values
+variable variable variables
+various various
+vary vary
+vector vector vectors
+version version
+versus versus
+vertical vertical
+view view
+vote vote votes
+voter voter
+wald wald
+way way
+week week
+weight weighted
+whether whether
+widely widely
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+wikiversity wikiversity
+wildfires wildfires
+win winning
+wish wish
+within within
+word words
+work worked working
+would would
+write write writing written
+writes writes
+yes yes
+yet yet
+yield yielding yields
+zero zero
+čeština čeština
+русский русский
+українська українська
+עברית עברית
+العربية العربية
+فارسی فارسی
+ไทย ไทย
+中文 中文
+日本語 日本語
+粵語 粵語
+한국어 한국어
