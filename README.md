@@ -80,6 +80,8 @@ cd "#3"
 python3 index.py
 ```
 
+### 2. Поиск
+
 ```bash
 python3 search.py "machine AND learning"
 python3 search.py "(network OR internet) AND NOT security"
